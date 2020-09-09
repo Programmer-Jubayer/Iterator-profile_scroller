@@ -1,19 +1,3 @@
-// class API {
-//     constructor () {
-
-//     }
-
-//     async getData() {
-//         const response = await fetch(`https://cors-anywhere.herokuapp.com/https://randomuser.me/api/`)
-
-//         const responseData = await response.json();
-//         console.log(responseData)
-//     }
-// }
-
-// const api = new API();
-// console.log(api.getData())
-
 const data = [
     {
         name: "John Doe",
